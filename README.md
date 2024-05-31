@@ -1,7 +1,3 @@
-# 1st-sem-Sheree-Nypurposed-Textiles
-1st semester projekt Zealand Køge Multimediedesigner
-
-
 
   
 <!DOCTYPE html>
@@ -355,18 +351,18 @@ input[type=submit]:hover {
   </head>
   <body>
   
-  <h2>Images Side by Side</h2>
-  <p>Float images side by side:</p>
+  <h2>Vi har samlet de bærdygtige koncepter for dig</h2>
+  
   
   <div class="clearfix">
     <div class="img-container">
     <img src="https://www.bloomingetiquette.dk/wp-content/uploads/2024/05/Vibeke.jpg" alt="Italy" style="width:100%">
     </div>
     <div class="img-container">
-    <img src="https://www.bloomingetiquette.dk/wp-content/uploads/2024/05/IMG_20240529_200020.jpg" alt="Forest" style="width:100%">
+    <img src="https://www.bloomingetiquette.dk/wp-content/uploads/2022/01/IMG_5082-scaled.jpg" alt="Forest" style="width:100%">
     </div>
     <div class="img-container">
-    <img src="https://www.bloomingetiquette.dk/wp-content/uploads/2024/05/good-pic-Salina.jpg" alt="Mountains" style="width:100%">
+    <img src="https://www.bloomingetiquette.dk/wp-content/uploads/2024/05/20240521151659_IMG_6891-1.jpg" alt="Mountains" style="width:100%">
     </div>
   </div>
   
